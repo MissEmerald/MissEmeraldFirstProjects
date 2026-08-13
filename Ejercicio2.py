@@ -1,0 +1,1 @@
+print("Cada uno debe pagar " + str(round(135/7,2)) + "\nSi solo aportan billetes enteros, cada uno debe dar " + str(135//7) + "\nSiendo el residuo " + str(135%7))
